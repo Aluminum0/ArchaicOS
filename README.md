@@ -5,3 +5,5 @@ Archaic OS is a linux based operating system that uses the (in-progress) qwa pac
 
 
 **Credits: Me, myself, and I**
+
+A setup guide is in progress, and help would be appreciated!
