@@ -27,13 +27,13 @@ Debian 13 (in form of vm or otherwise)
 First, make sure you have QEMU installed on a linux distribution such as Debian 13 (This is all I have tested on)
 
 
-Next, type in git clone https://github.com/Aluminum0/ArchaicOS . This downloads this repo onto your device. 
+Next, type in git clone ~~~https://github.com/Aluminum0/ArchaicOS~~~ . This downloads this repo onto your device. 
 
 
-After that, cd into the repo and locate QEMUARCHAIC.sh
+After that, cd into the repo and locate ~~~QEMUARCHAIC.sh~~~
 
 
-Give it permissions by writing chmod +x QEMUARCHAIC.sh
-Run ./QEMUARCHAIC .
+Give it permissions by writing ~~~chmod +x QEMUARCHAIC.sh~~~
+Run ~~~./QEMUARCHAIC~~~ .
 
 Congrats!
